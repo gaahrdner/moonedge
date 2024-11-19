@@ -1,0 +1,10 @@
+typer
+rich
+pandas
+numpy
+backtrader
+yfinance
+ephem
+deap
+robin_stocks
+pydantic
